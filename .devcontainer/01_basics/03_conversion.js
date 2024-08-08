@@ -23,3 +23,14 @@ console.log(isLoggedIn);
 
 // "" => false
 // "saket" => true 
+
+// *********************** OPERATIONS *******************
+let value1=3
+let negval=-value1
+console.log(negval);
+
+let str="saket "
+let str2="raj";
+console.log(str+str2); 
+
+console.log(-true); 
