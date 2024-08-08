@@ -1,0 +1,1 @@
+//in JS data types are categorized in two types on the basis of the way data is stores and accessed from the memory
