@@ -25,6 +25,12 @@ console.log(isLoggedIn);
 // "saket" => true 
 
 // *********************** OPERATIONS *******************
+let value=3
+let negval=-value
+console.log(negval);
+
+
+// *********************** OPERATIONS *******************
 let value1=3
 let negval=-value1
 console.log(negval);
@@ -34,3 +40,5 @@ let str2="raj";
 console.log(str+str2); 
 
 console.log(-true); 
+
+>>>>>>> 14326453ad451d64f5196e57215cb9330ddfb2ad
