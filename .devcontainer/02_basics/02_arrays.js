@@ -1,6 +1,9 @@
 const arr1=["ironman", "thor", "cap"];
 const arr2=["superman", "joker", "batman"];
 
+arr1.push(arr2);
+console.log(arr1);
+
 //arr1.push(arr2);
 console.log(arr1);
 const arr3=arr1.concat(arr2);
